@@ -44,6 +44,7 @@ theme:
     - navigation.sections
     - content.code.copy
     - content.code.select
+  custom_dir: docs/overrides
 
 extra:
   social:
